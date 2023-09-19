@@ -47,5 +47,5 @@
       "last 1 safari version"
     ]
   },
-  "proxy": "http://localhost:8080/"
+  "proxy": "http://ec2-44-198-225-181.compute-1.amazonaws.com:8080"
 }
