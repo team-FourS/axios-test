@@ -1,0 +1,44 @@
+.header {
+    position: fixed;
+    top: 0;
+    width: 100%;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    /* background-color: blueviolet; */
+}
+.header_line{
+    border-top: 1px solid #b1daca;
+    /* margin: 5px 0px; */
+}
+.Header_main{
+    align-items: center;
+}
+.logoimg{
+    width: 170px;
+    height: 43px;
+    margin-top: 6px;
+    margin-right: 960px;
+    cursor: pointer;
+}
+.header_logout {
+    color:gray;
+    display: inline;    
+}
+.manual_icon{
+    margin-right: 20px;
+    font-size: 25px;
+    cursor: pointer;
+}
+.bell_icon{
+    display: inline;
+    margin-right: 20px;
+    font-size: 25px;
+    color: rgb(76, 152, 233);
+    cursor: pointer;
+}
+.header_link{
+    line-height: 0px;
+    width: 0px;
+    height: 0px;
+}

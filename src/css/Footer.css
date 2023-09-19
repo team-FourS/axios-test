@@ -1,0 +1,16 @@
+.footer {
+    position: fixed;
+    width:100%;
+    bottom: 0;
+    height: 10%;
+    margin-top: auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: gray;
+    /* z-index: -1; */
+  }
+
+  .active {
+    color: #65c28e;
+  }
